@@ -1,0 +1,24 @@
+﻿body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.hreo-unit{width:1240px;
+           height:300px;
+		   background-color:#99CCFF;}
+h1{font-size:48px;
+   padding-left:45px;
+   padding-top:80px;
+                  }
+.hreo-unit p{padding-left:45px;}
+.span4{float:left;
+       width:400px;
+	   height:300px;
+	   margin-left:15px;
+	   margin-top:20px;}
+
+			   
